@@ -1,4 +1,4 @@
-# CPE111-Programming-with-Data-Structures (2/2019) 🧬📈
+# CPE111-Programming-with-Data-Structures (2/2019) 📂⚙️
 Lecture and Lab of CPE111-Programming-with-Data-Structures (2/2019)
 
 <b>Instructor:</b> Dr.Prapong Prechaprapranwong
